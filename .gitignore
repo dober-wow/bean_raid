@@ -1,0 +1,13 @@
+# Ignore generated HTML files in specific directories
+weeks/*.html
+_site/
+
+# Allow custom index templates
+!custom_index.html
+
+# Keep images and other assets
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.svg
