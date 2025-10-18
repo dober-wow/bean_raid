@@ -32,5 +32,5 @@ Somehow the beans shuffled back into Manaforge Omega this week with the smug glo
 
 Fresh trial Ajjaxx, Elemental Shaman and alleged friend of Linny, materializes in raid. Panda, suffering from catastrophic memory failure, doesn't recognize his own plus-one. Panic spreads. "Who is this shaman? Did someone sneak in from LFG?" Cham's boot is swift. Ajjaxx's parting message in /say: a declaration of our collective homosexuality. Discord rage-quit commences. We invite him back. Gay jokes flow like lava burst procs for the remainder of the evening. Good times. Guy is definitely banned for life though—we don't deal with that kind of cringe.
 
-### [Week 9 - 1/12 - Beans in the Steam](pages/week9/week9.html)
+### [Week 9 - 10/12 - Beans in the Steam](pages/week9/week9.html)
 Raid night begins fashionably late, because apparently punctuality is an optional buff. **Cole** assures us reinforcements are coming — “I’ve got some friends joining.” Moments later, in strolls **Riley**, a fresh-out-the-box dragon with an item level so low it counts as a charity case. Spirits are… tepid.

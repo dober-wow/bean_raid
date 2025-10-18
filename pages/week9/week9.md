@@ -1,4 +1,4 @@
-### Week 9 — 9/7 — **Beans in the Steam**
+### Week 9 — 10/12 — **Beans in the Steam**
 
 **Episode Banner:**
 
