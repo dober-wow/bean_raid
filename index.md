@@ -41,3 +41,6 @@ Fresh trial Ajjaxx, Elemental Shaman and alleged friend of Linny, materializes i
 
 ### [Week 9 - 10/12 - Beans in the Steam](pages/week9/week9.html)
 Raid night begins fashionably late, because apparently punctuality is an optional buff. **Cole** assures us reinforcements are coming — “I’ve got some friends joining.” Moments later, in strolls **Riley**, a fresh-out-the-box dragon with an item level so low it counts as a charity case. Spirits are… tepid.
+
+### [Week 10 — 10/19 — Fellowship of Beans](pages/week10/week10.html)
+The only reason anyone logged in tonight? **Fellowship was down for maintenance.** Bereft of their new obsession, the crew stumbled back into **Manaforge Omega** like exiles returning to the bean fields. Thus began the reluctant epic: *Fellowship of Beans.*
