@@ -6,7 +6,14 @@
 
 Join us on an extraordinary journey through the Bean Raid chronicles, where epic battles, legendary loot, and unforgettable moments await.
 
+## Raid Videos
+
+
+
 ### [Week 1 — 8/17 — Pilot: Beans Before Keys](pages/week1/week1.html)
+
+ [Episode 1](https://www.youtube.com/watch?v=b35HsGLHsNE)
+
 We debut in Omega Manaforge with the Bean Ethos: if it isn't beans, it's garnish. The raid chooses beans and keys over the sanctity of main raid.
 
 ### [Week 2 — 8/24 — Beans vs. Beams](pages/week2/week2.html)

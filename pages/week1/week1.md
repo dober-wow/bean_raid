@@ -1,7 +1,7 @@
 # Week 1 — 8/17 — Pilot: Beans Before Keys
 
 **Episode Banner:**
-![Banner showing Bean Raid members gathered around a feast table with beans](bean_feast.png)
+![Banner showing Bean Raid members gathered around a feast table with beans](bean_feast_2.png)
 **Cold Open:** We debut in **Omega Manaforge** to the sound of grumbling: *“I’d rather be in keys.”* The Bean Ethos is established: if it isn’t beans, it’s garnish.
 
 **Highlights:**
