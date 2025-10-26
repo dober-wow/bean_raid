@@ -44,3 +44,7 @@ Raid night begins fashionably late, because apparently punctuality is an optiona
 
 ### [Week 10 — 10/19 — Fellowship of Beans](pages/week10/week10.html)
 The only reason anyone logged in tonight? **Fellowship was down for maintenance.** Bereft of their new obsession, the crew stumbled back into **Manaforge Omega** like exiles returning to the bean fields. Thus began the reluctant epic: *Fellowship of Beans.*
+
+
+### [Week 12 — 10/26 — **Beans Off the Edge**](pages/week11/week11.html)
+Raid opens with confusion: **Strut** strolls in on a **paper-geared tank**, somehow ripping threat off our **fully mythic-clad Carl**. The logs don’t lie, but physics might. The Beans begin to suspect witchcraft—or worse, main-raid gear funneling.
